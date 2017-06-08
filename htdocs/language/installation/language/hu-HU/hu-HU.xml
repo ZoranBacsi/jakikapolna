@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile
+	version="2.5"
+	client="installation">
+	<name>Magyar (HU) semleges</name>
+	<version>2.5</version>
+	<creationDate>2012-11-08</creationDate>
+	<author>Varanka Zoltán</author>
+	<authorEmail>webmester@novolibro.hu</authorEmail>
+	<authorUrl>www.novoportal.hu</authorUrl>
+	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. Minden jog fenntartva.</copyright>
+	<license>GNU General Public License 2. verzió vagy későbbi; lásd LICENSE.txt</license>
+	<description></description>
+	<files>
+		<filename>hu-HU.ini</filename>
+	</files>
+	<metadata>
+		<name>Hungarian (HU) neutral</name>
+		<tag>hu-HU</tag>
+		<rtl>0</rtl>
+	</metadata>
+	<params />
+</metafile>
